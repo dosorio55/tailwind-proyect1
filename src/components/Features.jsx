@@ -15,6 +15,7 @@ const Features = () => {
                 <div>
                     <div>
                         1
+                        2
                     </div>
                     <h3>
                         Track company-wide progress
